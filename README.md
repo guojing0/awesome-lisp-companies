@@ -311,6 +311,7 @@ Awesome Lisp Company is the curated lisp for companies that use Lisp Extensively
 
 - [Anaphoric](http://www.anaphoric.com/)
   - natural language interface for relational databases. Umeå, Sweden. Including [Michael Minock](http://www.cs.umu.se/~mjm/) of Umeå University. Downloadable demo of their CatchPhrase product. 20K lines of Clisp code.
+  - *Disappeared as of September 2022*
 - Doremir Music Research AB
   - Developing [ScoreCloud](https://scorecloud.com/), a music notation software (a LispWorks product). Stockholm.
 - Noteheads &#128124;
